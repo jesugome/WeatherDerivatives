@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09660eb4-6ec9-4505-a5e5-bb4d8a002eec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.debris/tmp/lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.debris/tmp/lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/1.0_rainfallSimulator_totalResults-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/1.0_rainfallSimulator_totalResults-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ensoForecastDownloader-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ensoForecastDownloader-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/hiddenMarkovChainPro-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/hiddenMarkovChainPro-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/hiddenMarkovChainPro_ZeroInflated-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/hiddenMarkovChainPro_ZeroInflated-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ideamDataReader-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ideamDataReader-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ideamDataReader_v2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/ideamDataReader_v2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/indexDataExploration-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/indexDataExploration-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/indexDataExploration_v2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/indexDataExploration_v2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/modelENSO_vs_historical_Comparison--ShowResults-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/modelENSO_vs_historical_Comparison--ShowResults-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/modelENSO_vs_historical_Comparison-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/modelENSO_vs_historical_Comparison-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/neuralNetworkTransition-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/neuralNetworkTransition-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/nnLSTMtransition-Copy1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/nnLSTMtransition-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/nnLSTMtransition-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/nnLSTMtransition-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/paperFigures-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/paperFigures-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/precipitationDataExploration-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/precipitationDataExploration-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/precipitationDataExploration_v2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/precipitationDataExploration_v2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_FinancialAnalysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_FinancialAnalysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_NNVersion-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_NNVersion-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_NNVersion_FinalResults-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_NNVersion_FinalResults-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersion-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersion-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersionFull-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersionFull-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersionFull_Test-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersionFull_Test-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersion_FinalResults-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/rainfallSimulator_ProVersion_FinalResults-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/totalDatasetConstructor-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/totalDatasetConstructor-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/vgamModel-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/vgamModel-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/vgamModel_finalFit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/vgamModel_finalFit-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.ipynb_checkpoints/visibleMarkovChainPro-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.ipynb_checkpoints/visibleMarkovChainPro-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/1.0_rainfallSimulator_totalResults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/1.0_rainfallSimulator_totalResults.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Precipitacion_Totales_Mensuales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Precipitacion_Totales_Mensuales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/Untitled1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/Untitled1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/ensoForecastDownloader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/ensoForecastDownloader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/hiddenMarkovChainPro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/hiddenMarkovChainPro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/hiddenMarkovChainPro_ZeroInflated.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/hiddenMarkovChainPro_ZeroInflated.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/ideamDataReader.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/ideamDataReader.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/ideamDataReader_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/ideamDataReader_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/indexDataExploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/indexDataExploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/indexDataExploration_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/indexDataExploration_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/modelENSO_vs_historical_Comparison--ShowResults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/modelENSO_vs_historical_Comparison--ShowResults.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/modelENSO_vs_historical_Comparison.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/modelENSO_vs_historical_Comparison.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/neuralNetworkTransition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/neuralNetworkTransition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/nnLSTMtransition-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/nnLSTMtransition-Copy1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/nnLSTMtransition.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/nnLSTMtransition.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/paperFigures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/paperFigures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/precipitationDataExploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/precipitationDataExploration.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/precipitationDataExploration_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/precipitationDataExploration_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_FinancialAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_FinancialAnalysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_NNVersion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_NNVersion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_NNVersion_FinalResults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_NNVersion_FinalResults.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersionFull.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersionFull.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersionFull_Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersionFull_Test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersion_FinalResults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/rainfallSimulator_ProVersion_FinalResults.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_paperFigures-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_paperFigures-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_rainfallSimulator_FinancialAnalysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_rainfallSimulator_FinancialAnalysis-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_rainfallSimulator_totalResults-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_rainfallSimulator_totalResults-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_totalDatasetConstructor-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_totalDatasetConstructor-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_vgamModel_finalFit-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/.ipynb_checkpoints/1.0_vgamModel_finalFit-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/1.0_paperFigures.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/1.0_paperFigures.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/1.0_rainfallSimulator_FinancialAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/1.0_rainfallSimulator_FinancialAnalysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/1.0_rainfallSimulator_totalResults.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/1.0_rainfallSimulator_totalResults.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/1.0_totalDatasetConstructor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/1.0_totalDatasetConstructor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/resultsCode/1.0_vgamModel_finalFit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/resultsCode/1.0_vgamModel_finalFit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/totalDatasetConstructor.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/totalDatasetConstructor.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/vgamModel.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/vgamModel.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/vgamModel_finalFit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/vgamModel_finalFit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/visibleMarkovChainPro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code/visibleMarkovChainPro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/Precipitacion_Totales_Mensuales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/Precipitacion_Totales_Mensuales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ensoForecastProb/ensoForecastProbabilities.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ensoForecastProb/ensoForecastProbabilities.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset2.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset2.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset_2005-01-01_2015-12-31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/fullDataset/completeDailyDataset_2005-01-01_2015-12-31.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/historicalMonths.pk" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/historicalMonths.pk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1972.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1972.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1972_mod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1972_mod.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1972_mod1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1972_mod1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1973.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1973.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1974.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1974.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1975.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1975.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1976.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1976.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1977.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1977.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1978.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1978.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1979.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1979.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1980.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1980.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1981.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1981.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1982.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1982.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1983.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1983.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1984.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1984.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1985.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1985.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1986.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1986.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1987.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1987.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1988.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1988.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1989.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1989.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1990.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1990.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1991.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1991.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1992.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1992.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1993.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1993.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1994.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1994.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1995.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1995.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1996.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1996.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1997.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1997.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1998.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1998.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/1999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/1999.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2001.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2002.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2003.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2004.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2005.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2005.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2006.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2006.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2007.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2007.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2008.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2008.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2009.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2009.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2010.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2010.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2011.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2011.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2012.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2012.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2013.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2013.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2014.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2014.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/ideamBogota/2015.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/ideamBogota/2015.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/jmasst1949-today.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/jmasst1949-today.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/nao.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/nao.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/nino34.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/nino34.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/nino34_daily.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/nino34_daily.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/oni.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/oni.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/pdo.long.data" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/pdo.long.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/pr_1901_2015.xls" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/pr_1901_2015.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/precipitationAllTime.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/precipitationAllTime.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/precipitationRemovingAverageAllTime.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/precipitationRemovingAverageAllTime.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/rows.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/rows.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/soi.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/soi.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/soi.dat.1" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/soi.dat.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/soi.dat.2" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/soi.dat.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datasets/soi1866-today.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../datasets/soi1866-today.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/A Fair Pricing Approach to&#10;Weather Derivatives.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/A Fair Pricing Approach to&#10;Weather Derivatives.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/EDITED_P11----A Poisson-Gamma Model for Zero Inflated Rainfall Data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/EDITED_P11----A Poisson-Gamma Model for Zero Inflated Rainfall Data.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/EDITED_P14----Analysis of the Latin American west coast rainfall predictability using an ENSO index.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/EDITED_P14----Analysis of the Latin American west coast rainfall predictability using an ENSO index.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/EDITED_P15----ENSO Index-Based Insurance for Agricultural Protection in Southern Peru.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/EDITED_P15----ENSO Index-Based Insurance for Agricultural Protection in Southern Peru.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/EDITED_P16---- A spatiotemporal model for downscaling precipitation occurrence and amounts.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/EDITED_P16---- A spatiotemporal model for downscaling precipitation occurrence and amounts.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/JARE,Apr2008,pp34,Woodard.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/JARE,Apr2008,pp34,Woodard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P1----Management of climate risk in agriculture - Topic Introduction.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P1----Management of climate risk in agriculture - Topic Introduction.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P10----Analysis of Rainfall Derivates using Daily Precipitation Models.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P10----Analysis of Rainfall Derivates using Daily Precipitation Models.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P11----A Poisson-Gamma Model for Zero Inflated Rainfall Data.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P11----A Poisson-Gamma Model for Zero Inflated Rainfall Data.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P12----Precipitation Modeling and contract valuation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P12----Precipitation Modeling and contract valuation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P13----Rainfall prediction for the Kerala state of India using artificial inteligence.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P13----Rainfall prediction for the Kerala state of India using artificial inteligence.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P14----Analysis of the Latin American west coast rainfall predictability using an ENSO index.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P14----Analysis of the Latin American west coast rainfall predictability using an ENSO index.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P15----ENSO Index-Based Insurance for Agricultural Protection in Southern Peru.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P15----ENSO Index-Based Insurance for Agricultural Protection in Southern Peru.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P16---- A spatiotemporal model for downscaling precipitation occurrence and amounts.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P16---- A spatiotemporal model for downscaling precipitation occurrence and amounts.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P17---- A non-homogeneous hidden Markov model for precipitation occurrence.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P17---- A non-homogeneous hidden Markov model for precipitation occurrence.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P18----Antonis K Alexandridis_ Achilleas Zapranis -Weather derivatives _ modeling and pricing weather-related risk-Springer (2013).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P18----Antonis K Alexandridis_ Achilleas Zapranis -Weather derivatives _ modeling and pricing weather-related risk-Springer (2013).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P2----Weather Derivates and water allocation_CaseMexico.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P2----Weather Derivates and water allocation_CaseMexico.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P3---Weather derivatives structuring and pricing_AfricaCase.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P3---Weather derivatives structuring and pricing_AfricaCase.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P4----Machine Learning for rainfall prediction and options valuation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P4----Machine Learning for rainfall prediction and options valuation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P5---- Neural Networks for weather derivates design and valuation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P5---- Neural Networks for weather derivates design and valuation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P6----Valoracion Opciones Climaticas en Colombia_CasoYopal.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P6----Valoracion Opciones Climaticas en Colombia_CasoYopal.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P7---- Machine learning CLIMATE Book Procedings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P7---- Machine learning CLIMATE Book Procedings.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P8----Rainfall derivatives pricing with an underlying semi-Markov.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P8----Rainfall derivatives pricing with an underlying semi-Markov.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/P9----Predicting Rainfall in the Context of Rainfall with Genetic Programming.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/P9----Predicting Rainfall in the Context of Rainfall with Genetic Programming.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/Pricing Rainfall Derivatives at the CME.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/Pricing Rainfall Derivatives at the CME.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/Pricing Weather Derivatives.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/Pricing Weather Derivatives.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/Weather Derivatives: A New Class of Financial Instruments.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/Weather Derivatives: A New Class of Financial Instruments.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/ssoar-appecon-2009-musshoff_et_al-management_of_climate_risks_in.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/ssoar-appecon-2009-musshoff_et_al-management_of_climate_risks_in.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../documents/weatherhedge.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../documents/weatherhedge.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/boxPlotMonth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/boxPlotMonth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/focusAreaMap.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../results/focusAreaMap.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/historicalRainfall.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/historicalRainfall.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model1Forecast.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model1Forecast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model1nino14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model1nino14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model2Forecast.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model2Forecast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model2nino14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model2nino14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model3Forecast.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model3Forecast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/model3nino14.png" beforeDir="false" afterPath="$PROJECT_DIR$/../results/model3nino14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/amountGamma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/amountGamma.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/amountGammaJe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/amountGammaJe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/amountGammaPro.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/amountGammaPro.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/amountGamma_vglm.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/amountGamma_vglm.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/fittedGamma.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/fittedGamma.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/modelENSO_vs_historical_Comparison--ShowResults.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/modelENSO_vs_historical_Comparison--ShowResults.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/monthTransitions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/monthTransitions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmDry.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmDry.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmDry_LSTM.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmDry_LSTM.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmWet.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmWet.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmWet_LSTM.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/rainfall_lstmWet_LSTM.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersDry.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersDry.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersDry_glm.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersDry_glm.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersWet.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersWet.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersWet_glm.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../results/visibleMarkov/transitionsParametersWet_glm.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/ideam_data_reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1976">
+              <caret line="107" selection-start-line="107" selection-end-line="114" selection-end-column="71" />
+              <folding>
+                <element signature="e#27#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_framework.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="183" column="124" selection-start-line="182" selection-start-column="4" selection-end-line="183" selection-end-column="124" />
+              <folding>
+                <element signature="e#27#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_deltaIndex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_daily.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="338" column="77" selection-start-line="338" selection-start-column="77" selection-end-line="338" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_noenso.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/simulationDF_to_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="84" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1235">
+              <caret line="73" selection-start-line="73" selection-end-line="93" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/enso_forescast_downloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="51" selection-start-line="51" selection-end-line="52" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code/ideam_data_reader.py" />
+        <option value="$PROJECT_DIR$/code/enso_forescast_downloader.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_glm+gamma.py" />
+        <option value="$PROJECT_DIR$/code/simulationDF_to_excel.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_noenso.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_glm_plus_gamma.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_deltaIndex.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_framework.py" />
+        <option value="$PROJECT_DIR$/code/rainfall_simulator_daily.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/paper_publication.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="282" />
+    <option name="y" value="158" />
+    <option name="width" value="1405" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="paper_publication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paper_publication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="paper_publication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paper_publication" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rainfall_simulator_daily">
+    <configuration name="enso_forescast_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="paper_publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/enso_forescast_downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ideam_data_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="paper_publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ideam_data_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rainfall_simulator_daily" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="paper_publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/rainfall_simulator_daily.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rainfall_simulator_framework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="paper_publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/rainfall_simulator_framework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simulationDF_to_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="paper_publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/simulationDF_to_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rainfall_simulator_daily" />
+        <item itemvalue="Python.rainfall_simulator_framework" />
+        <item itemvalue="Python.simulationDF_to_excel" />
+        <item itemvalue="Python.enso_forescast_downloader" />
+        <item itemvalue="Python.ideam_data_reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09660eb4-6ec9-4505-a5e5-bb4d8a002eec" name="Default Changelist" comment="" />
+      <created>1561246207651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561246207651</updated>
+      <workItem from="1561246208737" duration="37345000" />
+      <workItem from="1561995287428" duration="14002000" />
+      <workItem from="1563035477398" duration="6204000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57551000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="27" width="1871" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113972604" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3192436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32925472" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.22794521" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_gamma.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_noenso.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/rainfall_simulator_daily.py</url>
+          <line>365</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/rainfall_simulator_framework.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/paper_publication$rainfall_simulator_framework.coverage" NAME="rainfall_simulator_framework Coverage Results" MODIFIED="1563039621593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/paper_publication$ideam_data_reader.coverage" NAME="ideam_data_reader Coverage Results" MODIFIED="1561315779260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/paper_publication$enso_forescast_downloader.coverage" NAME="enso_forescast_downloader Coverage Results" MODIFIED="1561316889684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/paper_publication$simulationDF_to_excel.coverage" NAME="simulationDF_to_excel Coverage Results" MODIFIED="1561408570722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/paper_publication$rainfall_simulator_daily.coverage" NAME="rainfall_simulator_daily Coverage Results" MODIFIED="1563045102381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>pd.read_csv('../results/visibleMarkov/amountGamma_vglm_deltaIndex.csv', sep=' ', header=None, names=['variable', 'log_mu', 'log_shape'])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>simulationDataFrame.index[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentDate+ datetime.timedelta(days=-1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentDate-1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>currentDate = datetime.datetime.strptime(startDate, '%Y-%m-%d')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import calendar
+bb = calendar.monthrange(2005,1)[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import calendar
+bb = calendar.monthrange(2005,1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import calendar
+calendar.monthrange(2005,1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hh.year</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>year=='2004'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>year==2004</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>year == 2004</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ye</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>list(dates.strftime('%Y-%m-%d'))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dates.strftime('%Y-%m-%d')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dates[0].strftime('%Y-%m-%d') == startDate</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dates[0] == startDate</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dates[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/joblib/externals/loky/backend/popen_loky_posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pandas/io/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1203" selection-start-line="1203" selection-end-line="1203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/joblib/_parallel_backends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_gamma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="145" column="53" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
+          <folding>
+            <element signature="e#27#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ideam_data_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="107" selection-start-line="107" selection-end-line="114" selection-end-column="71" />
+          <folding>
+            <element signature="e#27#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_noenso.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/simulationDF_to_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="73" selection-start-line="73" selection-end-line="93" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/enso_forescast_downloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="51" selection-start-line="51" selection-end-line="52" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/joblib/parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="5804" selection-start-line="5804" selection-end-line="5804" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_framework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="183" column="124" selection-start-line="182" selection-start-column="4" selection-end-line="183" selection-end-column="124" />
+          <folding>
+            <element signature="e#27#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_glm_plus_vglm_deltaIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="77" column="12" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/rainfall_simulator_daily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="338" column="77" selection-start-line="338" selection-start-column="77" selection-end-line="338" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
